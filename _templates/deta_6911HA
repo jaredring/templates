@@ -12,3 +12,4 @@ category: switch
 type: Switch
 standard: au
 ---
+October 2021 - Updated product uses the ESP WB3S chip which is not compatible with Tasmota/ESPHome/etc. Packaging has a model number of 6911HA - Series 2
